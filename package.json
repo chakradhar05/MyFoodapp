@@ -1,0 +1,14 @@
+{
+  "name": "myfoodapp",
+  "version": "1.0.0",
+  "description": "My Food App",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+  
+  ],
+  "author": "Chakradhar",
+  "license": "ISC"
+}
